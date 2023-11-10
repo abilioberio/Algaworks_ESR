@@ -1,10 +1,10 @@
-package com.algaworks.alfafood;
+package com.algaworks.abrfood;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AlgafoodApiApplicationTests {
+class AbrFoodApiApplicationTests {
 
 	@Test
 	void contextLoads() {
